@@ -25,10 +25,6 @@
             </feature>
         </config-file>
 
-        <config-file target="AndroidManifest.xml" parent="/*">
-            <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-        </config-file>
-
         <source-file src="src/android/UniqueDeviceID.java" target-dir="src/hu/dpal/phonegap/plugins" />
 
     </platform>
