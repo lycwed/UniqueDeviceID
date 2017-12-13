@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-uniquedeviceid",
+  "name": "lycwed-cordova-plugin-udid",
   "version": "1.3.1",
-  "description": "PhoneGap / Cordova unique device id (UUID) plugin for Android, iOS and Windows Phone 8. Remains the same after app uninstall.",
+  "description": "This cordova plugin provides a unique device identifier. This is to avoid problems when using UUID or other solutions.",
   "cordova": {
-    "id": "cordova-plugin-uniquedeviceid",
+    "id": "lycwed-cordova-plugin-udid",
     "platforms": [
       "ios",
       "android",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Paldom/UniqueDeviceID.git"
+    "url": "git+https://github.com/lycwed/lycwed-cordova-plugin-udid.git"
   },
   "keywords": [
     "phonegap",
@@ -36,7 +36,7 @@
   "author": "Domonkos Pal <public@dpal.hu> (https://github.com/Paldom)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Paldom/UniqueDeviceID/issues"
+    "url": "https://github.com/lycwed/lycwed-cordova-plugin-udid/issues"
   },
-  "homepage": "https://github.com/Paldom/UniqueDeviceID#readme"
+  "homepage": "https://github.com/lycwed/lycwed-cordova-plugin-udid#readme"
 }
